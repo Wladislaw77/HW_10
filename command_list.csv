@@ -1,0 +1,130 @@
+    1  git config --global user.name vlad
+    2  git config --global user.email vladisslav8888@gmail.com
+    3  git config --global --list
+    4  git clone https://github.com/vladi/HW_10.git
+    5  git clone https://github.com/Wladislaw77/HW_10.git
+    6  cd HW_10
+    7  touch text_ignore.txt
+    8  cd .gitignore
+    9  vim text_ignore.txt
+   10  git status
+   11  git add .
+   12  cd text_ignore.txt
+   13  cd text_ignore
+   14  git status
+   15  git rm --cached text_ignore.txt
+   16  git add .gitignore
+   17  git commit -m "New file created"
+   18  git add text_ignore.txt
+   19  git status
+   20  git commit -m "New file created"
+   21  git status
+   22  git push
+   23  cd HW_10
+   24  cd HW_10
+   25  touch main_test.txt
+   26  git add
+   27  git status
+   28  git add main_test.txt
+   29  git status
+   30  git commit -m "New file created"
+   31  git log
+   32  git branch
+   33  git checkout -b develop
+   34  git branch
+   35  git checkout develop
+   36  git branch
+   37  touch develop_test.txt
+   38  dit add develop_test.txt
+   39   dit add develop_test
+   40  git add develop_test.txt
+   41  git commit "New file created"
+   42  git commit -m "New file created"
+   43  vim  develop_test.txt
+   44  git status
+   45  git add develop_test.txt
+   46  git commit -m "Text changed, git status complete and git add too"
+   47  git checkout main
+   48  git merge develop
+   49  git log
+   50  cd HW_10
+   51  history > command_list.csv
+   52  git add history > command_list.csv
+   53  git add command_list.csv
+   54  git commit -m "command_list.csv added in file, git add - complete"
+   55  git push
+   56  cd GIT
+   57  cd Git
+   58  cd Tom D
+   59  cd Git
+   60  ls
+   61  cd Git
+   62  cd HW_10
+   63  cd ..
+   64  cd This PC/Tom(D:)/Git/
+   65  cd /This PC/Tom(D:)/Git/
+   66  cd /This PC/Tom(D:)/Git
+   67  cd This PC/Tom(D:)/Git
+   68  cd This PC/Tom D/Git
+   69  cd This PC/Tom D:/Git
+   70  clear
+   71  cd Desktop
+   72  Sd This PC
+   73  cd This PC
+   74  cd Tom
+   75  ..
+   76  cd vladi
+   77  cd Downloads
+   78  cd cdf
+   79  ..
+   80  cd ..
+   81  cd Slack
+   82  sd софья
+   83  cd New folder
+   84  cd New folder
+   85  cd Git
+   86  cd This PC
+   87  cd ~/Desktop
+   88  cd/d
+   89  cd /d
+   90  cd..
+   91  cd ..
+   92  cd /Desktop
+   93  pwd
+   94  pwd
+   95  ls
+   96  cd /Desktop/Git
+   97  cd/ Git
+   98  cd /Git
+   99  cd /Desktop/Git
+  100  C:\Users\vladi
+  101  cd C:\Users\vladi
+  102  cd c/Users/vladi
+  103  pwd
+  104  ls
+  105  cd Desktop
+  106  cd /OneDrive
+  107  cd OneDrive
+  108  cd Git
+  109  cd Desktop
+  110  cd /Desktop
+  111  cd desktop
+  112  cd Desktop
+  113  ls
+  114  cd Рабочий стол
+  115  cd 'Рабочий стол'
+  116  cd Git
+  117  git clone https://github.com/Wladislaw77/HW_10.git
+  118  cd HW_10
+  119  git clone https://github.com/Wladislaw77/HW_10.git
+  120  history > command_list.csv
+  121  git add command_list.csv
+  122  git commit -m "git add - complete, command_list.csv download in file"
+  123  git push
+  124  history > command_list.csv
+  125  history > command_list.csv
+  126  ls
+  127  rm command_list.csv
+  128  ді
+  129  ls
+  130  history > command_list.csv
